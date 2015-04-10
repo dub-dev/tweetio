@@ -5,9 +5,9 @@ Twitter API, NodeJS, Socket.io &amp; node-tweet-stream
   - Put your Twitter APP credentials in "config.json"
   
   
-  <pre><code>[client@host tweetio]$ node app.js KEYWORD [optional: -f FILTER]</pre></code>
+  <pre><code>[client@host tweetio]$ node app.js KEYWORD [optional: -f FILTER]</code></pre>
 
-  [client@host tweetio]$ node app.js google -f angularjs
+  <pre><code>[client@host tweetio]$ node app.js google -f angularjs</code></pre>
   
 
 # Author
